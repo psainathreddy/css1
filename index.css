@@ -1,0 +1,9 @@
+#text {
+    border: 20px solid;
+}
+
+#one,
+#two,
+#three {
+    color: blue;
+}
